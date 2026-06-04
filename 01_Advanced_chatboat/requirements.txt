@@ -1,0 +1,8 @@
+
+
+langchain
+langchain-openai
+faiss-cpu
+python-dotenv
+streamlit
+pygments
